@@ -1,0 +1,10 @@
+*.class
+out/
+hs_err_pid*.log
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
